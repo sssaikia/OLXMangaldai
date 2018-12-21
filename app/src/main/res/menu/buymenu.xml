@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:title="Change Layout"
+        android:id="@+id/spanCount"/>
+    <item
+        android:title="About"
+        android:id="@+id/buyabout"/>
+    <item android:id="@+id/sell"
+        android:title="Seller"/>
+    <item
+        android:title="Exit"
+        android:id="@+id/exit"/>
+</menu>

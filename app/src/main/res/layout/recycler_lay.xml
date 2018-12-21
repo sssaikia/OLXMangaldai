@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:ads="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+        <TextView
+            android:textSize="18sp"
+            android:gravity="left"
+            android:text="test"
+            android:layout_margin="3dp"
+            android:background="@drawable/title_back"
+            android:padding="5dp"
+            android:textColor="@android:color/white"
+            android:layout_width="match_parent"
+            android:id="@+id/rimg"
+            android:layout_height="wrap_content" />
+        <ImageView
+            android:scaleType="centerCrop"
+            android:padding="2dp"
+            android:paddingBottom="10dp"
+            android:adjustViewBounds="true"
+            android:layout_gravity="center"
+            android:maxHeight="400dp"
+            android:minHeight="100dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:id="@+id/rtext"/>
+    </LinearLayout>
+
+<ScrollView
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content">
+    <HorizontalScrollView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+        <com.google.android.gms.ads.NativeExpressAdView
+            android:id="@+id/adView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            ads:adSize="FULL_WIDTHx300"
+            ads:adUnitId="@string/banner_ad_unit_idNative"
+            android:layout_marginBottom="5dp"/>
+    </HorizontalScrollView>
+</ScrollView>
+
+</LinearLayout>

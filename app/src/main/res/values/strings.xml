@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Intown</string>
+    <string name="banner_ad_unit_id">ca-app-pub-5433263595056427/2593901924</string>
+    <string name="banner_ad_unit_idNative">ca-app-pub-5433263595056427/5803191646</string>
+    <string name="ad_Native">ca-app-pub-5433263595056427/6269917892</string>
+    <string name="about_message"><b>Intown v1.0</b> \n\nThis application is developed for the purpose of
+    helping people to buy and sell their old goods.\n
+    <b>What can you do here\n</b>
+        1. Sell/buy electrical appliances such as mobile,tv or fridge\n
+    2. Sell/buy books and study materials.\n
+    3. Get a place to live. buy or rent.\n
+    4. Get your place rented.\n
+    5. Sell/or buy old bike/car.\n
+    6. Promote your store by listing it under respective category.\n
+    7. Buy/sell furniture (new/old).\n
+    And many more. If you find a category not listed, please inform, it will be updated ASAP.\n
+    Feedback are welcome.\n
+    mail at- <b>ssaikia3@gmail.com</b></string>
+</resources>

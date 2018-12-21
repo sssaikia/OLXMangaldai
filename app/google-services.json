@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "743957794691",
+    "firebase_url": "https://olxmangaldai.firebaseio.com",
+    "project_id": "olxmangaldai",
+    "storage_bucket": "olxmangaldai.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:743957794691:android:701b4e4ef36f59c4",
+        "android_client_info": {
+          "package_name": "com.sstudio.olxmangaldai"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "743957794691-hnk0ed56c4dqqm76m1hppe60ot4gq1u7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sstudio.olxmangaldai",
+            "certificate_hash": "af8191f12b079aed472acf99318d8f3851bbebcb"
+          }
+        },
+        {
+          "client_id": "743957794691-of76633rgad77b2ha9cql1b4l9iifgbt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9Vm8m--6GlczHh5L4RXYR9u9P9Q2ag3o"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "743957794691-of76633rgad77b2ha9cql1b4l9iifgbt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
